@@ -1,3 +1,9 @@
+# JGWill's Version
+
+* [See : How to run a GUI app from a docker image ?](https://gist.github.com/jgwill/fdf20ccc691b0b1306ea812931893fc1)
+
+----
+
 # Unsupervised Segmentation 
 
 This pytorch code generates segmentation labels of an input image.
